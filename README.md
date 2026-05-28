@@ -19,12 +19,11 @@ The dataset used in this project is the Titanic dataset from Kaggle:
 
 ## Project Workflow
 1. Data Loading
-2. Data Cleaning
-3. Missing Value Treatment
-4. Exploratory Data Analysis (EDA)
-5. Feature Engineering
+2. Initial Data Exploration
+3. Data Cleaning
+4. Feature Engineering
+5. Exploratory Data Analysis (EDA)
 6. Data Visualization
-7. Insight Generation
 
 ## Technologies & Libraries
 - Python
