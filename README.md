@@ -75,4 +75,4 @@ The analysis explored survival rates based on:
 
 ## Results
 
--The CatBoost model was evaluated using classification metrics and 5-fold cross-validation, demonstrating the effectiveness of feature engineering, data preprocessing, and gradient boosting for predicting passenger survival.
+- The CatBoost model was evaluated using classification metrics and 5-fold cross-validation, demonstrating the effectiveness of feature engineering, data preprocessing, and gradient boosting for predicting passenger survival.
